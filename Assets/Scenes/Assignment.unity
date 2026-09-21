@@ -384,18 +384,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Assignment.Assignment
   as01Words: []
   as02Numbers: 
-  as03Input: 
+  as03Input: )
   as04List:
-    values: 
+    values: 02000000
   as05List:
-    values: []
+    values:
+    - d
+    - 2
+    - 3
+    - 4
+    - d
+    - d
+    - d
   as06FirstDictionary:
     entries: []
   as06SecondDictionary:
     entries: []
   as07List:
     values: 
-  as08Numbers: 
+  as08Numbers: 01000000010000000200000002000000030000000300000003000000
   as09Inventory:
     entries: []
   as09ItemName: 
